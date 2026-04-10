@@ -1,4 +1,15 @@
-h1 {
-  color: brown;
+nav {
+  color: rgb(164,144,124);
   text-align: center;
 }
+body {
+  background-color: rgb	(250,245,239);
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: rgb(141,123,104);
+  text-align: center;
+}
+
+
