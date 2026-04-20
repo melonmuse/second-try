@@ -12,6 +12,8 @@ h1 {
   text-align: center;
 }
 div {
-  float: center;
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;
 }
 
